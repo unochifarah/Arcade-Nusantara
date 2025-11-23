@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 3c4af6401aeedf54a917c68cf971aa62
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3635699812811576191
+    second: Logo Arcade Nusantara-1_0
+  - first:
+      213: 5749996224473153461
+    second: Logo Arcade Nusantara-1_1
+  - first:
+      213: 7142438077356035911
+    second: Logo Arcade Nusantara-1_2
+  - first:
+      213: 6341047307128116329
+    second: Logo Arcade Nusantara-1_3
+  - first:
+      213: -4604887282043627245
+    second: Logo Arcade Nusantara-1_4
+  - first:
+      213: 298584338954041818
+    second: Logo Arcade Nusantara-1_5
+  - first:
+      213: 5803400118785846246
+    second: Logo Arcade Nusantara-1_6
+  - first:
+      213: 6708829625920575748
+    second: Logo Arcade Nusantara-1_7
+  - first:
+      213: -3134622702865044983
+    second: Logo Arcade Nusantara-1_8
+  - first:
+      213: 550787908213572865
+    second: Logo Arcade Nusantara-1_9
+  - first:
+      213: 1079419484342366216
+    second: Logo Arcade Nusantara-1_10
+  - first:
+      213: 913487650911300667
+    second: Logo Arcade Nusantara-1_11
+  - first:
+      213: 4587418152504385469
+    second: Logo Arcade Nusantara-1_12
+  - first:
+      213: -1534621768939187823
+    second: Logo Arcade Nusantara-1_13
+  - first:
+      213: 5546171100853544839
+    second: Logo Arcade Nusantara-1_14
+  - first:
+      213: -1888843504500335374
+    second: Logo Arcade Nusantara-1_15
+  - first:
+      213: 7988756962111529404
+    second: Logo Arcade Nusantara-1_16
+  - first:
+      213: -4716588922709484346
+    second: Logo Arcade Nusantara-1_17
+  - first:
+      213: -6417333693414558896
+    second: Logo Arcade Nusantara-1_18
+  - first:
+      213: 6911381980856766683
+    second: Logo Arcade Nusantara-1_19
+  - first:
+      213: 431612950218085012
+    second: Logo Arcade Nusantara-1_20
+  - first:
+      213: 2957892305577286656
+    second: Logo Arcade Nusantara-1_21
+  - first:
+      213: 3813980048500808959
+    second: Logo Arcade Nusantara-1_22
+  - first:
+      213: 2284758553784007690
+    second: Logo Arcade Nusantara-1_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Logo Arcade Nusantara-1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1563
+        height: 1573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c696378466b8dc0800000000000000
+      internalID: -3635699812811576191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo Arcade Nusantara-1_1
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 487
+        width: 2243
+        height: 775
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf3f83f9171ccf40800000000000000
+      internalID: 5749996224473153461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo Arcade Nusantara-1_2
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 311
+        width: 141
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fc70fc6990f1360800000000000000
+      internalID: 7142438077356035911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo Arcade Nusantara-1_3
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 310
+        width: 88
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9649155fdeceff750800000000000000
+      internalID: 6341047307128116329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo Arcade Nusantara-1_4
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 311
+        width: 88
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319531b2a672810c0800000000000000
+      internalID: -4604887282043627245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo Arcade Nusantara-1_5
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 310
+        width: 87
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9b9d2dfd8c42400800000000000000
+      internalID: 298584338954041818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo Arcade Nusantara-1_6
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 311
+        width: 101
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eba0b909a1d98050800000000000000
+      internalID: 5803400118785846246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo Arcade Nusantara-1_7
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 310
+        width: 88
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409dc97fffc8a1d50800000000000000
+      internalID: 6708829625920575748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo Arcade Nusantara-1_8
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 311
+        width: 88
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90aaada72459f74d0800000000000000
+      internalID: -3134622702865044983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo Arcade Nusantara-1_9
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 310
+        width: 88
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10586af2faac4a700800000000000000
+      internalID: 550787908213572865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo Arcade Nusantara-1_10
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 311
+        width: 88
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800bcdf4d4edafe00800000000000000
+      internalID: 1079419484342366216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo Arcade Nusantara-1_11
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 310
+        width: 87
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c264bbd2c5dac00800000000000000
+      internalID: 913487650911300667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo Arcade Nusantara-1_12
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 311
+        width: 97
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfd3382188c9af30800000000000000
+      internalID: 4587418152504385469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo Arcade Nusantara-1_13
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 310
+        width: 88
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1915cc5c1ade3bae0800000000000000
+      internalID: -1534621768939187823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo Arcade Nusantara-1_14
+      rect:
+        serializedVersion: 2
+        x: 2966
+        y: 311
+        width: 40
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787a9e93b35f7fc40800000000000000
+      internalID: 5546171100853544839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo Arcade Nusantara-1_15
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 311
+        width: 100
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc14f517da79c5e0800000000000000
+      internalID: -1888843504500335374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo Arcade Nusantara-1_16
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 311
+        width: 92
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1269b7124cdde60800000000000000
+      internalID: 7988756962111529404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo Arcade Nusantara-1_17
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 311
+        width: 70
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccdb564d5f4b8eb0800000000000000
+      internalID: -4716588922709484346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo Arcade Nusantara-1_18
+      rect:
+        serializedVersion: 2
+        x: 3314
+        y: 311
+        width: 87
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05331ee910d01f6a0800000000000000
+      internalID: -6417333693414558896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo Arcade Nusantara-1_19
+      rect:
+        serializedVersion: 2
+        x: 3413
+        y: 310
+        width: 88
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0d0042b492aef50800000000000000
+      internalID: 6911381980856766683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo Arcade Nusantara-1_20
+      rect:
+        serializedVersion: 2
+        x: 3513
+        y: 311
+        width: 92
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492153201b56df500800000000000000
+      internalID: 431612950218085012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo Arcade Nusantara-1_21
+      rect:
+        serializedVersion: 2
+        x: 3611
+        y: 311
+        width: 91
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c9bcd516b8c0920800000000000000
+      internalID: 2957892305577286656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo Arcade Nusantara-1_22
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 311
+        width: 40
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc515395aafde430800000000000000
+      internalID: 3813980048500808959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo Arcade Nusantara-1_23
+      rect:
+        serializedVersion: 2
+        x: 3767
+        y: 311
+        width: 69
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cb4dbacc715bf10800000000000000
+      internalID: 2284758553784007690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Logo Arcade Nusantara-1_0: -3635699812811576191
+      Logo Arcade Nusantara-1_1: 5749996224473153461
+      Logo Arcade Nusantara-1_10: 1079419484342366216
+      Logo Arcade Nusantara-1_11: 913487650911300667
+      Logo Arcade Nusantara-1_12: 4587418152504385469
+      Logo Arcade Nusantara-1_13: -1534621768939187823
+      Logo Arcade Nusantara-1_14: 5546171100853544839
+      Logo Arcade Nusantara-1_15: -1888843504500335374
+      Logo Arcade Nusantara-1_16: 7988756962111529404
+      Logo Arcade Nusantara-1_17: -4716588922709484346
+      Logo Arcade Nusantara-1_18: -6417333693414558896
+      Logo Arcade Nusantara-1_19: 6911381980856766683
+      Logo Arcade Nusantara-1_2: 7142438077356035911
+      Logo Arcade Nusantara-1_20: 431612950218085012
+      Logo Arcade Nusantara-1_21: 2957892305577286656
+      Logo Arcade Nusantara-1_22: 3813980048500808959
+      Logo Arcade Nusantara-1_23: 2284758553784007690
+      Logo Arcade Nusantara-1_3: 6341047307128116329
+      Logo Arcade Nusantara-1_4: -4604887282043627245
+      Logo Arcade Nusantara-1_5: 298584338954041818
+      Logo Arcade Nusantara-1_6: 5803400118785846246
+      Logo Arcade Nusantara-1_7: 6708829625920575748
+      Logo Arcade Nusantara-1_8: -3134622702865044983
+      Logo Arcade Nusantara-1_9: 550787908213572865
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
